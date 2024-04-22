@@ -1,3 +1,23 @@
+This is CarRental project that created by ReactJS-TypeScript;
+
+Used React-Router-Dom for linking
+
+Used Tailwind for styling
+
+Used React-Select for create dropdown items.
+
+Used Framer-Motion to animate open and close to Modals and windows
+
+
+I aimed to listing listing cars depends on their brand, model, fuel type and year of production, see the price per days, and see more detail about car, such as Combination Mpg, Cylinders, Displacement and etc.
+
+
+
+https://github.com/evliyademiray/Car-Rental-Project/assets/139562305/dd5b483d-25dd-4c02-96c8-b01b7a5129cc
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
